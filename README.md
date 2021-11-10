@@ -1,16 +1,19 @@
 ### Hi there 👋
 ___
-#### Language
+#### Development Language
 * **Java**
 * **C#**
 * **Node.js**
 
-#### Working On
+#### Development Direction
 * Unity 3D
 * Bukkit Plugins
 
+#### Working On
+* **[CS:GO Observer Hud](https://github.com/China-Han-1209/csgo-observer-hud/)**
+
 #### Public Repos
-* **BridgeLeveling** - https://github.com/China-Han-1209/BridgeLeveling/
+* **[BridgeLeveling](https://github.com/China-Han-1209/BridgeLeveling/)**
 
 #### Private Project
 * **Onyx**
