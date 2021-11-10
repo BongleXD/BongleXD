@@ -1,16 +1,23 @@
 ### Hi there 👋
+___
+#### Language
+* **Java**
+* **C#**
+* **Node.js**
 
-<!--
-**China-Han-1209/China-Han-1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Working On
+* Unity 3D
+* Bukkit Plugins
 
-Here are some ideas to get you started:
+#### Public Repos
+* **BridgeLeveling** - https://github.com/China-Han-1209/BridgeLeveling/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Private Project
+* **Onyx**
+* **Speed Bedwars (Glicko-2)**
+* **Bridge Practice**
+* **SurvivalAddon**
+
+[![Bloody_Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=China-Han-1209)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=China-Han-1209)](https://github.com/anuraghazra/github-readme-stats)
