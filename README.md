@@ -19,7 +19,7 @@ ___
 * **Onyx**
 * **Speed Bedwars (Glicko-2)**
 * **Bridge Practice**
-* **SurvivalAddon**
+* **Survival Addon**
 
 [![Bloody_Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=China-Han-1209)](https://github.com/anuraghazra/github-readme-stats)
 
