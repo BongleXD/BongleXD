@@ -1,7 +1,7 @@
 ### Hi there 👋
 ___
 #### Development Language
-* **KotLin**
+* **Kotlin**
 * **Java**
 * **C#**
 * **Node.js**
