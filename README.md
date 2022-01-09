@@ -9,6 +9,7 @@ ___
 #### Development Direction
 * Unity 3D
 * Bukkit Plugins
+* Minecraft Mods
 
 #### Working On
 * **[CS:GO Observer Hud](https://github.com/China-Han-1209/csgo-observer-hud/)**
