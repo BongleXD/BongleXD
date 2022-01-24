@@ -23,6 +23,6 @@ ___
 * **Bridge Practice**
 * **Survival Addon**
 
-[![Bloody_Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=China-Han-1209)](https://github.com/anuraghazra/github-readme-stats)
+[![Bongowole's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bongowole)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=China-Han-1209)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bongowole)](https://github.com/anuraghazra/github-readme-stats)
