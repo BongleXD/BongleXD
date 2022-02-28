@@ -12,7 +12,7 @@ ___
 * Minecraft Mods
 
 #### Working On
-* **[CS:GO Observer Hud](https://github.com/China-Han-1209/csgo-observer-hud/)**
+* **Duels**
 
 #### Public Repos
 * **[BridgeLeveling](https://github.com/China-Han-1209/BridgeLeveling/)**
