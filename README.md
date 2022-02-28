@@ -25,4 +25,4 @@ ___
 
 [![Bongowole's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bongowole)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bongowole)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bongowole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
