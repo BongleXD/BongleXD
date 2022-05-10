@@ -6,11 +6,6 @@ ___
 * **C#**
 * **Node.js**
 
-#### Development Direction
-* Unity 3D
-* Bukkit Plugins
-* Minecraft Mods
-
 #### Working On
 * **Duels**
 
