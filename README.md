@@ -9,7 +9,8 @@ ___
 * **Duels**
 
 #### Public Repos
-* **[BridgeLeveling](https://github.com/China-Han-1209/BridgeLeveling/)**
+* **[BridgeLeveling](https://github.com/Boougouh/BridgeLeveling/)**
+* **[Onyx-2021](https://github.com/Boougouh/Onyx-2021/)**
 
 #### Private Project
 * **Onyx**
