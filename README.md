@@ -1,10 +1,9 @@
 ### Hi there 👋
 ___
-#### Development Language
+#### About Me
 * **Kotlin**
-* **Java**
-* **C#**
-* **Node.js**
+* **Spring Boot**
+* **Jetpack Compose**
 
 #### Working On
 * **Duels**
