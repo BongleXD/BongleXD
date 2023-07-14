@@ -1,23 +1,33 @@
-### Hi there 👋
-___
-#### About Me
-* **Kotlin**
-* **Spring Boot**
-* **Jetpack Compose**
 
-#### Working On
-* **Duels**
+<h1 align="center">Hi There 👋</h1>
 
-#### Public Repos
-* **[BridgeLeveling](https://github.com/Boougouh/BridgeLeveling/)**
-* **[Onyx-2021](https://github.com/Boougouh/Onyx-2021/)**
+<div align="left">
 
-#### Private Project
-* **Onyx**
-* **Speed Bedwars (Glicko-2)**
-* **Bridge Practice**
-* **Survival Addon**
+  #### About Me
+  * **Kotlin**
+  * **Spring Boot**
+  * **Android**
+  * **Compose Multiplatform**
+  * **OpenHarmony**
+  * **Vue.js**
 
-[![Bongle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boougouh)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://lanyard.cnrad.dev/api/710659317782806551"/>
+</div>
 
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boougouh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+----
+
+<div align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Boougouh&show_icons=true&locale=en" alt="Boougouh" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boougouh&show_icons=true&locale=en&layout=compact" alt="Boougouh" />
+</div>
+
+----
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Boougouh&row=1&column=7" alt="Boougouh" />
+  </a>
+</div>
