@@ -17,7 +17,7 @@
 ----
 
 <div align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Boougouh&show_icons=true&locale=en" alt="Boougouh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boougouh&show_icons=true&locale=en" alt="Boougouh" />
 </div>
 
 <div align="left">
